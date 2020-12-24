@@ -1,0 +1,21 @@
+body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh ;
+  background: linear-gradient(to left, #8942a8, rgba(63, 211, 204, 0.533))
+}
+img{
+  border-radius: 40%;
+
+}
+.text-shadow{
+  text-shadow: 6px 2px 4px #880099;
+}
+main{
+  flex-grow: 1;
+}
+
+img{
+  height: 400px;
+  width: 400px;
+}
